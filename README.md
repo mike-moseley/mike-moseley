@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, my name is Mike Moseley
+- Currently focusing on learning C and Go
+- Main interests are learning C, systems programming, and embedded programming
+- Reading:
+    - The C Programming Language by Kernighan and Ritchie
+    - Computer Systems A Programmer's Perspective by Bryant and O'Hallaron
+- Taking courses at [boot.dev](http://www.boot.dev)
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/62486487-b136-4ca3-8687-502a263dfe65/thumbnail" >
+</p>
 
 <!--
 **mike-moseley/mike-moseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
